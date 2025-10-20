@@ -3,10 +3,14 @@
 </div>
 <h1>Hey, I'm Jordan! </h1>
 
+<h2>🛡️ TryHackMe Badge</h2>
+
+[![Title](https://tryhackme-badges.s3.amazonaws.com/jcobu.png)](https://tryhackme.com/api/v2/badges/public-profile?userPublicId=201727)
+
 <h2>🧑‍💻 Software Development Projects</h2>
 
 - <b>🐍 Python</b>
-  - [motivationalDiscordBot](https://github.com/jcobu/motivationalDiscordBot) <b><i>(a Discord bot that send a "motivational" message)</b></i>
+  - [motivationalDiscordBot](https://github.com/jcobu/motivationalDiscordBot) <b><i>(a Discord bot that sends a "motivational" message)</b></i>
 
 <h2>👋 Connect with me</h2>
 
