@@ -1,5 +1,5 @@
 <div align="center">
-<img width="100%" height = "180px" alt="Banner Image" src="https://media.licdn.com/dms/image/C5616AQF5ajtwSI9ipQ/profile-displaybackgroundimage-shrink_350_1400/0/1640914870011?e=1716422400&v=beta&t=-dM9wJwFabknn_E0JKAcvZMIw4gOI2AvXjyQd6ltVK4" alt="cover" />
+<img width="100%" height = "180px" alt="Banner Image" src="banner.jpg" alt="cover" />
 </div>
 <h1>Hey, I'm Jordan! </h1>
 
