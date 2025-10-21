@@ -3,9 +3,11 @@
 </div>
 <h1>Hey, I'm Jordan! </h1>
 
-<h2>🛡️ TryHackMe Badge</h2>
+<h2>🛡️ TryHackMe & HackTheBox Badges</h2>
 
-[![Title](https://tryhackme-badges.s3.amazonaws.com/jcobu.png)](https://tryhackme.com/api/v2/badges/public-profile?userPublicId=201727)
+[![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/jcobu.png)](https://tryhackme.com/api/v2/badges/public-profile?userPublicId=201727)
+
+[![HackTheBox](https://www.hackthebox.com/badge/image/421535)](https://www.hackthebox.com/home/users/profile/421535)
 
 <h2>🧑‍💻 Software Development Projects</h2>
 
